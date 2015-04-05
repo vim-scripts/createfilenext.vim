@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5152
+
+createfilenext.vim
+Creates a new file in the directory of the current buffer.
+
+Home page: https://github.com/caglartoklu/createfilenext.vim
+For documentation and a .gif animation, please visit the homepage link.
+
+This script exposes one single command:
+:CreateFileNext
+When it is executed, it waits for a new file name from user, saves and opens it.
